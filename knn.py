@@ -1,7 +1,7 @@
 import math
 
 
-class KNNClassifier:
+class knn:
     def __init__(self, k=3):
         self.k = k
 
