@@ -14,4 +14,8 @@ IrisInsight is a school project and a machine learning application for classifyi
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/gabbail/irisinsight.git
+
+2. **Test Application**:
+   ```bash
    cd irisinsight
+   python main.py
