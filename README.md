@@ -1,6 +1,6 @@
 # IrisInsight
 
-IrisInsight is a machine learning application for classifying iris flower species using a custom-built K-Nearest Neighbors (KNN) algorithm, implemented entirely from scratch without any external machine learning libraries. This project provides an educational exploration of AI principles and demonstrates the fundamentals of KNN through the well-known Iris dataset.
+IrisInsight is a school project and a machine learning application for classifying iris flower species using a custom-built K-Nearest Neighbors (KNN) algorithm, implemented entirely from scratch without any external machine learning libraries. This project provides an educational exploration of AI principles and demonstrates the fundamentals of KNN through the well-known Iris dataset.
 
 ## Features
 
